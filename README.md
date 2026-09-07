@@ -11,7 +11,7 @@ I mainly work with C#, Python and Unity.
 
 ## Contact
 
-- 📍 Waregem, Belgium
+- 📍 Wielsbeke, Belgium
 - 📧 [ottohooghe@gmail.com](mailto:ottohooghe@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/otto-hooghe-131a22398/)
 - 📸 [Instagram](https://www.instagram.com/otto.h88/)
