@@ -1,22 +1,18 @@
-# Otto
+# Otto Hooghe
 
-I am an ICT student and aspiring Software Developer.
+**6ADT @ VTI Waregem**  
+**C# • Python • Unity**  
+**Game Developer**
 
 ## About Me
 
-- 💻 I'm currently studying ICT
-- 🌱 I'm currently learning C#, Python, HTML & CSS
-- 🎮 I enjoy gaming and working on coding projects
-- 🚀 I'm always trying to learn something new
-
-## Skills
-
-- C#
-- Python
-- HTML
-- CSS
-- Git & GitHub
+I'm an ICT student at VTI Waregem with a passion for game development.  
+I mainly work with C#, Python and Unity.
 
 ## Contact
 
-- GitHub: [@Chxnjxcky2009](https://github.com/Chxnjxcky2009)
+- 📍 Waregem, Belgium
+- 📧 [ottohooghe@gmail.com](mailto:ottohooghe@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/otto-hooghe-131a22398/)
+- 📸 [Instagram](https://www.instagram.com/otto.h88/)
+- 📘 [Facebook](https://www.facebook.com/otto.hooghe/)
